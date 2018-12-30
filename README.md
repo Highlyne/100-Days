@@ -26,7 +26,8 @@ One of my favorite aspects of being a developer is the fact that there is always
  - [x] **Tweet your progress every day using the #100DaysOfCode #100DaysofTrailhead #100DaysofLearning hashtags.**
 
 
-## Note
+
+## A few notes
 
 * This repository is a living document.  I will make improvements as I go along. 
 * Special thanks to [@ka11away](https://twitter.com/ka11away) for getting my Github repo started by sharing his [100-days-of-code](https://github.com/kallaway/100-days-of-code) repo framework.  This is a great way to track my progress.  It's my coding scrapbook. 
