@@ -1,10 +1,9 @@
-# 100-Days
-Commitment to 100 Days of Code &amp; Trailhead Badges
-
 ## I've joined the ~~#100DaysOfCode~~ Challenge
 # 100 Days of **Code & Trailhead Badges** Challenge
 
-However, as a developer, I've customized the challenge to become something that fully meets my personal goals.  I am challenging myself to spend a minimum of 1 hour coding and/or working in Trailhead earning badges for 100 consecutive days. My current career goal is to become a [Salesforce Developer](https://trailhead.salesforce.com/en/career-path/developer) and blazing trails on [Trailhead](https://trailhead.salesforce.com/en/home) is the best way to accomplish that goal.  One of my favorite aspects of being a developer is the fact that there is always something **NEW** and *EXCITING* to learn.  Which is why I am confident that unlike other boring New's Resolutions, ie: Save money or Exercise more, this is one that will be easy to complete.
+However, as a developer, I've customized the challenge to become something that fully meets my personal goals.  I am challenging myself to spend a minimum of 1 hour coding and/or working in Trailhead earning badges for 100 consecutive days. My current career goal is to become a [Salesforce Developer](https://trailhead.salesforce.com/en/career-path/developer) and blazing trails on [Trailhead](https://trailhead.salesforce.com/en/home) is the best way to accomplish that goal.  
+
+One of my favorite aspects of being a developer is the fact that there is always something **NEW** and *EXCITING* to learn.  Which is why I am confident that unlike other boring New's Resolutions, ie: Save money or Exercise more, this is one that will be easy to complete.
 
 ## Contents
 
