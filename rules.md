@@ -11,4 +11,4 @@ January 1, 2019
 2. Coding at work time won't count towards the challenge.
 3. I will push my progress to GitHub every day.
 4. I will update the (Log)[log.md] with the day's progress and provide any necessary links so that others can see my progress.
-5. My goal is to strengthen my skills and knowledge.  I will be working on tutorials, online courses and other similar resources such as books or podcasts.
+5. My goal is to both learn something new as well as strengthen my skills and knowledge.  I will be working on tutorials, online courses and other similar resources such as books or podcasts.
